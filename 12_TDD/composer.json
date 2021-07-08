@@ -1,0 +1,19 @@
+{
+    "name": "joaquinaprendizaje/12_tdd",
+    "description": "Practica para entender el Test Driven Development",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "joaquinaprendizaje",
+            "email": "joaquinarturoaprendizaje@gmail.com"
+        }
+    ],
+    "require": {}
+}

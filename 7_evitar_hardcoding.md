@@ -1,0 +1,3 @@
+# Hardcoding
+
+- Oculta información
